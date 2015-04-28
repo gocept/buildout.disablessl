@@ -26,8 +26,8 @@ setup(
         ],
     },
 
-    author='Wolfgang Schnerring <ws@gocept.com>',
-    author_email='ws@gocept.com',
+    author='gocept <mail@gocept.com>',
+    author_email='mail@gocept.com',
     license='ZPL 2.1',
     url='https://bitbucket.org/gocept/buildout.disablessl/',
 
