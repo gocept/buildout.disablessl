@@ -2,7 +2,7 @@
 Change log for buildout.disablessl
 ==================================
 
-1.1 (unreleased)
+1.1 (2015-04-28)
 ================
 
 - Disable SSL certificate verification of Python 2.7.9+, too.
