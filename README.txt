@@ -13,6 +13,8 @@ sets "ssl available" to false. Use it like so::
     [buildout]
     extensions = buildout.disablessl
 
+Python 2.7.9 activated SSL certificate verification by default, too. When using
+this version or newer it is disabled, too.
 
 WARNING: Using this extension disables SSL verification (duh), so you make
 yourself susceptible to man-in-the-middle attacks (among other things). Use
