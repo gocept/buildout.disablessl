@@ -8,7 +8,7 @@ packages from a custom package index with a self-signed certificate, for
 example.
 
 This package is a very small, monkey-patching buildout extension that simply
-sets "ssl avaiable" to false. Use it like so::
+sets "ssl available" to false. Use it like so::
 
     [buildout]
     extensions = buildout.disablessl

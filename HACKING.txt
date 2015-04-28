@@ -5,9 +5,6 @@ Developing buildout.disablessl
 :Author:
     `gocept <http://gocept.com/>`_ <mail@gocept.com>
 
-:Online documentation:
-    http://pythonhosted.org/buildout.disablessl/
-
 :PyPI page:
     http://pypi.python.org/pypi/buildout.disablessl/
 
@@ -18,4 +15,4 @@ Developing buildout.disablessl
     https://bitbucket.org/gocept/buildout.disablessl/
 
 :Current change log:
-    https://bitbucket.org/gocept/buildout.disablessl/raw-file/tip/CHANGES.txt
+    https://bitbucket.org/gocept/buildout.disablessl/raw/tip/CHANGES.txt
